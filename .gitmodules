@@ -4,3 +4,6 @@
 [submodule "linuxCollections"]
 	path = linuxCollections
 	url = https://github.com/songpeng22/linuxCollections.git
+[submodule "linuxPrograms"]
+	path = linuxPrograms
+	url = https://github.com/songpeng22/linuxPrograms.git
