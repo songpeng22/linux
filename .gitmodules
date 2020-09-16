@@ -1,0 +1,3 @@
+[submodule "linuxPatches"]
+	path = linuxPatches
+	url = https://github.com/songpeng22/linuxPatches.git
