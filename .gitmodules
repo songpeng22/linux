@@ -7,3 +7,6 @@
 [submodule "linuxPrograms"]
 	path = linuxPrograms
 	url = https://github.com/songpeng22/linuxPrograms.git
+[submodule "linuxShell_Tutorial"]
+	path = linuxShell_Tutorial
+	url = https://github.com/songpeng22/linuxShell_Tutorial.git
